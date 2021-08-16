@@ -1,7 +1,7 @@
 <h1 align = "center">Hello, I'm Amitha K P 👋</h1>
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA👩‍🎓</h3>
  
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitha-kp-9b1488217/)](https://www.linkedin.com/in/amitha-kp-9b1488217/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitha-kp-9b1488217/)](https://www.linkedin.com/in/amitha-kp-9b1488217/)
   <img align="left" alt="Amitha Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://github.com/amitha">
   <img align="left" alt="Renuka Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
