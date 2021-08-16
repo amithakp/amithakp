@@ -6,8 +6,8 @@
 <a href="https://github.com/amitha">
   <img align="left" alt="Amitha Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/renumaradagi/">
-  <img align="left" alt="Renuka Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/amitha_karippadan/">
+  <img align="left" alt="AmithaInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
@@ -18,6 +18,7 @@
 
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in  JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+<br/>
 💬 Ask me about ...- 🌱 I’m currently learning ...
 📫 You can reach me:  <a href="mailto:amithapmc97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
