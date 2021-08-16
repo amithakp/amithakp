@@ -1,9 +1,8 @@
 <h1 align = "center">Hello, I'm Amitha K P 👋</h1>
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA👩‍🎓</h3>
-
-<a href="https://www.linkedin.com/in/amitha-kp-9b1488217/">       
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitha-kp-9b1488217/)](https://www.linkedin.com/in/amitha-kp-9b1488217/)
   <img align="left" alt="Amitha Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/amitha">
   <img align="left" alt="Renuka Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -63,7 +62,7 @@ Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
