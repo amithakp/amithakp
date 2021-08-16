@@ -2,29 +2,24 @@
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA👩‍🎓</h3>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Amitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitha-kp-9b1488217/)](https://www.linkedin.com/in/amitha-kp-9b1488217/)
-  <img align="left" alt="Amitha Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
 <a href="https://github.com/amitha">
-  <img align="left" alt="Renuka Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Amitha Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/renumaradagi/">
   <img align="left" alt="Renuka Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw/">
-  <img align="left" alt="Renuka Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Renuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Renuka-yellow)](https://www.Renuka.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Renuka-blue)](https://stackoverflow.com/users/16351154/renuka-maradagi?tab=profile)
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+
+Strong in design and integration with intuitive problem-solving skills. Proficient in  JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
-📫 You can reach me:  <a href="mailto:renukamaradagi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+📫 You can reach me:  <a href="mailto:amithapmc97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 
