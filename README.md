@@ -2,9 +2,9 @@
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA👩‍🎓</h3>
 
 <a href="https://www.linkedin.com/in/amitha-kp-9b1488217/">       
-  <img align="left" alt="Renuka Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Amitha Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Renukadeveloper96">
+<a href="https://github.com/amitha">
   <img align="left" alt="Renuka Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/renumaradagi/">
