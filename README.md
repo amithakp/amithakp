@@ -15,7 +15,7 @@
 
 
 
-I am a MCA graduate, passionate to ork as a software developer.I am interested to develop my skill set and competancy in the area of website development. Proficient in  JAVA, HTML, CSS, SQL, .NET and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+I am a MCA graduate, passionate to work as a software developer.I am interested to develop my skill set and competancy in the area of website development. Proficient in  JAVA, HTML, CSS, SQL, .NET and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 <br/>
 💬 Ask me about ...- 🌱 I’m currently learning ...
 📫 You can reach me:  <a href="mailto:amithapmc97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
